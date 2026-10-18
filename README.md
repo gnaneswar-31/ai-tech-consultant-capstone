@@ -1,3 +1,26 @@
+# AI Tech Consultant Capstone Project
+
+## Project Overview
+
+The AI Tech Consultant project consists of three AI agents designed to assist with customer support, email management, and project scoping.
+
+### AI Agents
+
+1. **Knowledge Brain Agent** — Answers questions using a knowledge base.
+2. **Inbox Agent** — Classifies incoming emails and generates draft responses.
+3. **Meeting-to-Scope Agent** — Extracts project requirements and prepares scope estimates.
+
+## Technologies Used
+
+- Python
+- FastAPI
+- TypeScript
+- Node.js
+- Automated testing
+
+## GitHub Repository
+
+https://github.com/gnaneswar-31/ai-tech-consultant-capstone
 <<<<<<< HEAD
 # AI Tech Consultant Capstone
 
