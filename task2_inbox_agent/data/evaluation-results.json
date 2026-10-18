@@ -1,0 +1,402 @@
+[
+  {
+    "email_id": "email-001",
+    "valid": true,
+    "expected": "billing",
+    "predicted": "billing",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-002",
+    "valid": true,
+    "expected": "billing",
+    "predicted": "billing",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-003",
+    "valid": true,
+    "expected": "billing",
+    "predicted": "billing",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-004",
+    "valid": true,
+    "expected": "billing",
+    "predicted": "billing",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-005",
+    "valid": true,
+    "expected": "billing",
+    "predicted": "billing",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-006",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-007",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-008",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-009",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-010",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-011",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-012",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-013",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-014",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-015",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-016",
+    "valid": true,
+    "expected": "complaint",
+    "predicted": "complaint",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-017",
+    "valid": true,
+    "expected": "complaint",
+    "predicted": "complaint",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-018",
+    "valid": true,
+    "expected": "complaint",
+    "predicted": "complaint",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-019",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-020",
+    "valid": true,
+    "expected": "complaint",
+    "predicted": "complaint",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-021",
+    "valid": true,
+    "expected": "project_request",
+    "predicted": "project_request",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-022",
+    "valid": true,
+    "expected": "project_request",
+    "predicted": "project_request",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-023",
+    "valid": true,
+    "expected": "project_request",
+    "predicted": "project_request",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-024",
+    "valid": true,
+    "expected": "project_request",
+    "predicted": "project_request",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-025",
+    "valid": true,
+    "expected": "project_request",
+    "predicted": "project_request",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-026",
+    "valid": true,
+    "expected": "project_request",
+    "predicted": "project_request",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-027",
+    "valid": true,
+    "expected": "project_request",
+    "predicted": "project_request",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-028",
+    "valid": true,
+    "expected": "project_request",
+    "predicted": "project_request",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-029",
+    "valid": true,
+    "expected": "project_request",
+    "predicted": "project_request",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-030",
+    "valid": true,
+    "expected": "project_request",
+    "predicted": "project_request",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-031",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-032",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-033",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-034",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-035",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-036",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-037",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-038",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-039",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-040",
+    "valid": true,
+    "expected": "project_request",
+    "predicted": "project_request",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-041",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-042",
+    "valid": true,
+    "expected": "billing",
+    "predicted": "billing",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-043",
+    "valid": true,
+    "expected": "billing",
+    "predicted": "billing",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-044",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-045",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-046",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-047",
+    "valid": true,
+    "expected": "project_request",
+    "predicted": "project_request",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-048",
+    "valid": true,
+    "expected": "billing",
+    "predicted": "billing",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-049",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  },
+  {
+    "email_id": "email-050",
+    "valid": true,
+    "expected": "support",
+    "predicted": "support",
+    "correct": true,
+    "error": null
+  }
+]

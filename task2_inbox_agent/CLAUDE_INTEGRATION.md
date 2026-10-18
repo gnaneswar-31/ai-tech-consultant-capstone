@@ -1,0 +1,2 @@
+# Claude integration notes
+Task 2 currently calls Task 1 for product facts and uses deterministic templates for drafts. This makes the approval and safety behavior testable without an API key. To add Claude drafting, call the Anthropic TypeScript SDK from a service module, pass the email as untrusted content, and provide the Knowledge Brain result as the only source of product facts. Validate structured output with Zod. Record model ID, latency, and token usage. Never send an email automatically.

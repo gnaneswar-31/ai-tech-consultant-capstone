@@ -1,0 +1,51 @@
+
+[
+  {
+    "id": "unseen-001",
+    "from": "customer1@example.com",
+    "subject": "Charged twice for my subscription",
+    "body": "I paid for my monthly subscription but my bank statement shows two charges. Please investigate."
+  },
+  {
+    "id": "unseen-002",
+    "from": "customer2@example.com",
+    "subject": "Website search is broken",
+    "body": "The search bar returns no results even when I search for products that are available on the website."
+  },
+  {
+    "id": "unseen-003",
+    "from": "customer3@example.com",
+    "subject": "Request for a new feature",
+    "body": "Could you add an option for users to download their reports as Excel files?"
+  },
+  {
+    "id": "unseen-004",
+    "from": "customer4@example.com",
+    "subject": "Very disappointed with support",
+    "body": "I have contacted support several times and nobody has resolved my issue. This experience has been frustrating."
+  },
+  {
+    "id": "unseen-005",
+    "from": "customer5@example.com",
+    "subject": "How do I change my password?",
+    "body": "I cannot access my account because I forgot my password. Please tell me how to reset it."
+  },
+  {
+    "id": "unseen-006",
+    "from": "customer6@example.com",
+    "subject": "Meeting about the new website",
+    "body": "Can we schedule a meeting to discuss the new website design, project scope, timeline, and estimated cost?"
+  },
+  {
+    "id": "unseen-007",
+    "from": "customer7@example.com",
+    "subject": "Update my payment card",
+    "body": "My current card has expired. I need to replace it with a new card for future subscription payments."
+  },
+  {
+    "id": "unseen-008",
+    "from": "customer8@example.com",
+    "subject": "Page takes too long to load",
+    "body": "The dashboard takes almost a minute to load. Please help us identify and fix the performance issue."
+  }
+]

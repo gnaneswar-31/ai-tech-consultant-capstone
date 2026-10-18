@@ -1,0 +1,2 @@
+# Claude integration notes
+The current requirement extractor is deterministic and intentionally simple. For the live-model version, use Claude structured outputs to produce a validated JSON schema for requirements, clarifying questions, assumptions, dependencies, and acceptance criteria. Then use separate agent functions for estimator review and proposal writing. Do not let the proposal writer alter the extracted requirements silently. Keep the human approval endpoint as the final gate.

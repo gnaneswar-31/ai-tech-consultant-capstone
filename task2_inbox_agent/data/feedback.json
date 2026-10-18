@@ -1,0 +1,37 @@
+[
+  {
+    "draft_id": "d4a8ad08-a26d-44b3-9104-23af1b5ff8e8",
+    "original": "Hello,\n\nThank you for contacting us. Open Settings and select Billing.\n\nReference: https://example.com/billing\n\nPlease let us know if you need anything else.\n\nRegards,\nSupport Team",
+    "edited": "Changed",
+    "accepted": false,
+    "category": "general"
+  },
+  {
+    "draft_id": "c9904afc-c996-407d-ba3f-0bda9d990995",
+    "original": "Hello,\n\nThank you for contacting us. Open Settings and select Billing.\n\nReference: https://example.com/billing\n\nPlease let us know if you need anything else.\n\nRegards,\nSupport Team",
+    "edited": "Changed",
+    "accepted": false,
+    "category": "general"
+  },
+  {
+    "draft_id": "7aa4cc38-1d42-4ea9-b136-e549a542f5e7",
+    "original": "Hello,\n\nThank you for contacting us. Open Settings and select Billing.\n\nReference: https://example.com/billing\n\nPlease let us know if you need anything else.\n\nRegards,\nSupport Team",
+    "edited": "Changed",
+    "accepted": false,
+    "category": "general"
+  },
+  {
+    "draft_id": "68555778-d4bf-40de-b1ac-308d749ba195",
+    "original": "Hello,\n\nThank you for contacting us. Open Settings and select Billing.\n\nReference: https://example.com/billing\n\nPlease let us know if you need anything else.\n\nRegards,\nSupport Team",
+    "edited": "Changed",
+    "accepted": false,
+    "category": "general"
+  },
+  {
+    "draft_id": "21e4ce02-3c27-48dc-8f3f-c2736d6c7d54",
+    "original": "Hello,\n\nThank you for contacting us. Open Settings and select Billing.\n\nReference: https://example.com/billing\n\nPlease let us know if you need anything else.\n\nRegards,\nSupport Team",
+    "edited": "Changed",
+    "accepted": false,
+    "category": "general"
+  }
+]

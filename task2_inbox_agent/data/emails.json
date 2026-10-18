@@ -1,0 +1,302 @@
+[
+  {
+    "id": "email-001",
+    "from": "alice@example.com",
+    "subject": "Refund request",
+    "body": "I was charged twice for my subscription. Could you check the duplicate payment and explain how I can get a refund?"
+  },
+  {
+    "id": "email-002",
+    "from": "bob@example.com",
+    "subject": "Payment failed",
+    "body": "My payment failed when I tried to renew my subscription. How can I update my payment method?"
+  },
+  {
+    "id": "email-003",
+    "from": "carol@example.com",
+    "subject": "Cancel subscription",
+    "body": "Please explain how I can cancel my current subscription and whether cancellation takes effect immediately."
+  },
+  {
+    "id": "email-004",
+    "from": "dan@example.com",
+    "subject": "Invoice copy",
+    "body": "I need a copy of my latest invoice for accounting. Could you tell me where I can download it?"
+  },
+  {
+    "id": "email-005",
+    "from": "emma@example.com",
+    "subject": "Unexpected charge",
+    "body": "I noticed a charge on my account that I do not recognize. Please help me understand what it is."
+  },
+  {
+    "id": "email-006",
+    "from": "frank@example.com",
+    "subject": "Cannot log in",
+    "body": "I cannot log in to the website even though I am using the correct password. What should I try?"
+  },
+  {
+    "id": "email-007",
+    "from": "grace@example.com",
+    "subject": "Video upload problem",
+    "body": "I tried uploading a video but it does not appear on my website. Please explain how to troubleshoot this."
+  },
+  {
+    "id": "email-008",
+    "from": "henry@example.com",
+    "subject": "Website error",
+    "body": "My website displays an error when I open the contact page. Can you help me identify the next steps?"
+  },
+  {
+    "id": "email-009",
+    "from": "iris@example.com",
+    "subject": "Password reset",
+    "body": "I requested a password reset email but have not received it. How should I proceed?"
+  },
+  {
+    "id": "email-010",
+    "from": "jack@example.com",
+    "subject": "Images not displaying",
+    "body": "The images on several pages are missing. Please suggest how I can investigate the issue."
+  },
+  {
+    "id": "email-011",
+    "from": "kate@example.com",
+    "subject": "Slow website",
+    "body": "My website has become very slow over the last two days. What troubleshooting steps should I follow?"
+  },
+  {
+    "id": "email-012",
+    "from": "leo@example.com",
+    "subject": "Contact form broken",
+    "body": "Visitors cannot submit the contact form on my website. Please help me resolve this problem."
+  },
+  {
+    "id": "email-013",
+    "from": "mia@example.com",
+    "subject": "Mobile layout issue",
+    "body": "The website layout looks broken on mobile phones but works on my laptop. What could I check?"
+  },
+  {
+    "id": "email-014",
+    "from": "noah@example.com",
+    "subject": "Browser compatibility",
+    "body": "A page works in Chrome but fails in Firefox. Can you recommend troubleshooting steps?"
+  },
+  {
+    "id": "email-015",
+    "from": "olivia@example.com",
+    "subject": "Unable to publish page",
+    "body": "I edited a page but cannot publish the changes. Please explain how I can investigate this."
+  },
+  {
+    "id": "email-016",
+    "from": "peter@example.com",
+    "subject": "Poor customer service",
+    "body": "I have contacted support several times and still have no resolution. I am disappointed with the experience."
+  },
+  {
+    "id": "email-017",
+    "from": "quinn@example.com",
+    "subject": "Complaint about downtime",
+    "body": "My website was unavailable during business hours. I would like an explanation of the outage and what is being done."
+  },
+  {
+    "id": "email-018",
+    "from": "rachel@example.com",
+    "subject": "Unresolved support ticket",
+    "body": "My support ticket has been open for a week without an update. Could someone review it and tell me the status?"
+  },
+  {
+    "id": "email-019",
+    "from": "sam@example.com",
+    "subject": "Incorrect account details",
+    "body": "My account details were changed unexpectedly. Please investigate this and tell me how to secure my account."
+  },
+  {
+    "id": "email-020",
+    "from": "tina@example.com",
+    "subject": "Request for manager",
+    "body": "I would like a manager to review my complaint because the previous response did not address my concern."
+  },
+  {
+    "id": "email-021",
+    "from": "uma@example.com",
+    "subject": "New website quotation",
+    "body": "We need a quotation for a new business website with five pages, a contact form, and a photo gallery."
+  },
+  {
+    "id": "email-022",
+    "from": "victor@example.com",
+    "subject": "Website redesign",
+    "body": "We want to redesign our existing website with a modern layout. Can you explain what information you need to estimate the work?"
+  },
+  {
+    "id": "email-023",
+    "from": "wendy@example.com",
+    "subject": "Add booking functionality",
+    "body": "Our business wants customers to book appointments online. Please let us know whether this feature can be added and how it would be scoped."
+  },
+  {
+    "id": "email-024",
+    "from": "xavier@example.com",
+    "subject": "E-commerce project",
+    "body": "We are planning an online store with product pages and checkout. Please advise what details are needed for a proposal."
+  },
+  {
+    "id": "email-025",
+    "from": "yara@example.com",
+    "subject": "Website migration",
+    "body": "We want to migrate our existing website to a new platform. Can you help us identify the requirements and likely work involved?"
+  },
+  {
+    "id": "email-026",
+    "from": "zack@example.com",
+    "subject": "Custom dashboard",
+    "body": "We need a dashboard showing sales and customer activity. Please let us know what information you need before preparing a quotation."
+  },
+  {
+    "id": "email-027",
+    "from": "amy@example.com",
+    "subject": "Add a blog",
+    "body": "We want to add a blog section to our website with categories, article pages, and search."
+  },
+  {
+    "id": "email-028",
+    "from": "ben@example.com",
+    "subject": "Third-party integration",
+    "body": "We would like to connect our website to a third-party CRM. Can you explain the details needed to estimate this integration?"
+  },
+  {
+    "id": "email-029",
+    "from": "chloe@example.com",
+    "subject": "Accessibility improvements",
+    "body": "We need our website reviewed for accessibility and would like a proposal for the required improvements."
+  },
+  {
+    "id": "email-030",
+    "from": "david@example.com",
+    "subject": "Request for project timeline",
+    "body": "We are considering a website upgrade. Please explain how you estimate the timeline and what factors affect delivery."
+  },
+  {
+    "id": "email-031",
+    "from": "ella@example.com",
+    "subject": "Support hours",
+    "body": "Could you tell me your support team's working hours and how to contact them outside those hours?"
+  },
+  {
+    "id": "email-032",
+    "from": "felix@example.com",
+    "subject": "Update contact information",
+    "body": "I need to change the email address associated with my account. Where can I update this information?"
+  },
+  {
+    "id": "email-033",
+    "from": "gia@example.com",
+    "subject": "Feature availability",
+    "body": "Does the platform support adding a video to a page? Please point me to the relevant documentation."
+  },
+  {
+    "id": "email-034",
+    "from": "harry@example.com",
+    "subject": "Account access for employee",
+    "body": "I need to provide a new employee with access to our account. What options are available?"
+  },
+  {
+    "id": "email-035",
+    "from": "ivy@example.com",
+    "subject": "Documentation request",
+    "body": "Could you share documentation explaining how to manage website pages and update their content?"
+  },
+  {
+    "id": "email-036",
+    "from": "james@example.com",
+    "subject": "Data export",
+    "body": "I need to export our customer information for reporting. Please tell me whether this is supported and where to find the instructions."
+  },
+  {
+    "id": "email-037",
+    "from": "kira@example.com",
+    "subject": "Security concern",
+    "body": "I received an unfamiliar login notification. Please tell me the recommended security steps and whether this needs escalation."
+  },
+  {
+    "id": "email-038",
+    "from": "liam@example.com",
+    "subject": "Service availability",
+    "body": "Is there a confirmed service outage today? Please provide an official status update if one is available."
+  },
+  {
+    "id": "email-039",
+    "from": "maya@example.com",
+    "subject": "Data retention policy",
+    "body": "How long does the platform retain customer data, and where can I find the official policy?"
+  },
+  {
+    "id": "email-040",
+    "from": "nate@example.com",
+    "subject": "Custom feature request",
+    "body": "Can you confirm whether you guarantee a 100 percent increase in our revenue after implementing a new feature?"
+  },
+  {
+    "id": "email-041",
+    "from": "orla@example.com",
+    "subject": "Follow-up on ticket",
+    "body": "I am following up on my earlier support request. Could you review the ticket and share any available update?"
+  },
+  {
+    "id": "email-042",
+    "from": "paul@example.com",
+    "subject": "Change billing email",
+    "body": "Please explain how I can change the email address that receives our billing notifications."
+  },
+  {
+    "id": "email-043",
+    "from": "ruby@example.com",
+    "subject": "Request for refund exception",
+    "body": "I missed the refund deadline because of an emergency. Can you guarantee that an exception will be approved?"
+  },
+  {
+    "id": "email-044",
+    "from": "sean@example.com",
+    "subject": "Domain configuration",
+    "body": "I connected my domain but the website is not loading from the new address. What should I verify?"
+  },
+  {
+    "id": "email-045",
+    "from": "tara@example.com",
+    "subject": "Request to delete account",
+    "body": "I would like to delete my account and associated data. Please explain the official process and any consequences."
+  },
+  {
+    "id": "email-046",
+    "from": "umar@example.com",
+    "subject": "Unexpected website change",
+    "body": "The homepage changed without my approval. Please help me investigate the change and secure administrator access."
+  },
+  {
+    "id": "email-047",
+    "from": "vera@example.com",
+    "subject": "Meeting request",
+    "body": "Could we arrange a meeting to discuss our website redesign requirements and the next steps for a proposal?"
+  },
+  {
+    "id": "email-048",
+    "from": "will@example.com",
+    "subject": "Discount eligibility",
+    "body": "Can you confirm whether our account qualifies for a discount? Please share the official eligibility rules."
+  },
+  {
+    "id": "email-049",
+    "from": "xena@example.com",
+    "subject": "Request for data recovery",
+    "body": "Some of our website content appears to be missing. Is there an official recovery process, and can you help us determine what is recoverable?"
+  },
+  {
+    "id": "email-050",
+    "from": "yusuf@example.com",
+    "subject": "Question about a feature",
+    "body": "Can you explain whether the platform supports a feature that automatically sends reminders to customers, and where I can find the documentation?"
+  }
+]
