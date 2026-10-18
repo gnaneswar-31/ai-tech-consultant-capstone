@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI Tech Consultant Capstone
 
 A beginner-friendly starter implementation of the three-task capstone:
@@ -114,6 +114,3 @@ Do not fabricate a four-day commit history after the fact. Commit each real mile
 - Day 2: Inbox Agent, human feedback loop, tests.
 - Day 3: Meeting agents, change tracking, tests.
 - Day 4: Cross-task integration, model evaluations, README/design, and demo video.
-=======
-# ai-tech-consultant-capstone
->>>>>>> fc8c0e502817c11a549e26353bc4fead3a220304
