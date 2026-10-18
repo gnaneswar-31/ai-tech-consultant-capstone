@@ -2,6 +2,35 @@
 
 Use this file to report measured results, not guesses. For every live run record date, model ID, prompt version, input, expected behavior, actual output, pass/fail, latency, input/output tokens, estimated cost, and reviewer notes.
 
+## Current Test Results
+
+### Automated test suites
+
+| Component | Tests passed | Status |
+|---|---:|---|
+| Task 1 — Knowledge Brain | 23 | Passed |
+| Task 2 — Inbox Agent | 24 | Passed |
+| Task 3 — Meeting-to-Scope | 33 | Passed |
+| Total | 80 | Passed |
+
+These results describe the automated tests run during development. They do not mean every evaluation-plan scenario has been verified.
+
+### Task 2 — Synthetic evaluation
+
+- Evaluation set: 50 synthetic emails.
+- Correct predictions: 46.
+- Accuracy: 92%.
+- Small unseen synthetic set: 8/8 correct (100%).
+- Limitation: These are small synthetic datasets, not evidence of equivalent real-world performance.
+
+### Outstanding evaluations
+
+- Run and record each applicable evaluation-plan scenario.
+- Record model ID, prompt version, latency, token counts, estimated cost, and reviewer notes for live model runs.
+- Compare at least two available Claude models or configurations using identical inputs.
+- Verify live Claude API behavior and record failures honestly.
+- Do not report unmeasured costs, latency, or model-comparison results.
+
 ## Task 1 — 20 test cases
 1. Exact known question returns correct article.
 2. Answer includes source URL.
