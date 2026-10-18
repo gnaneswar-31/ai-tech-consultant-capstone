@@ -163,8 +163,8 @@
     "email_id": "email-021",
     "valid": true,
     "expected": "project_request",
-    "predicted": "project_request",
-    "correct": true,
+    "predicted": "support",
+    "correct": false,
     "error": null
   },
   {
@@ -251,8 +251,8 @@
     "email_id": "email-032",
     "valid": true,
     "expected": "support",
-    "predicted": "support",
-    "correct": true,
+    "predicted": "general",
+    "correct": false,
     "error": null
   },
   {
@@ -283,8 +283,8 @@
     "email_id": "email-036",
     "valid": true,
     "expected": "support",
-    "predicted": "support",
-    "correct": true,
+    "predicted": "general",
+    "correct": false,
     "error": null
   },
   {
@@ -323,8 +323,8 @@
     "email_id": "email-041",
     "valid": true,
     "expected": "support",
-    "predicted": "support",
-    "correct": true,
+    "predicted": "general",
+    "correct": false,
     "error": null
   },
   {
